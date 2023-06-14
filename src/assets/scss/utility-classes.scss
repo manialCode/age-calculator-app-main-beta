@@ -1,0 +1,106 @@
+/* Utility classes */
+
+.text-primary-400 {
+  color: $clr-primary-400;
+}
+
+.text-accent-100 {
+  color: $clr-accent-100;
+}
+
+.text-neutral-100 {
+  color: $clr-neutral-100;
+}
+
+.text-neutral-200 {
+  color: $clr-neutral-200;
+}
+
+.text-neutral-500 {
+  color: $clr-neutral-500;
+}
+
+.text-neutral-700 {
+  color: $clr-neutral-700;
+}
+
+.text-neutral-900 {
+  color: $clr-neutral-900;
+}
+
+/* background */
+.bg-primary-400 {
+  background-color: $clr-primary-400;
+}
+
+.bg-accent-100 {
+  background-color: $clr-accent-100;
+}
+
+.bg-neutral-100 {
+  background-color: $clr-neutral-100;
+}
+
+.bg-neutral-200 {
+  background-color: $clr-neutral-200;
+}
+
+.bg-neutral-500 {
+  background-color: $clr-neutral-500;
+}
+
+.bg-neutral-700 {
+  background-color: $clr-neutral-700;
+}
+
+.bg-neutral-900 {
+  background-color: $clr-neutral-900;
+}
+
+.fs-300 {
+  font-size: $fs-300;
+}
+
+.fs-400 {
+  font-size: $fs-400;
+}
+
+.fs-500 {
+  font-size: $fs-500;
+}
+
+.fs-600 {
+  font-size: $fs-600;
+}
+
+.fs-700 {
+  font-size: $fs-700;
+}
+
+.fs-800 {
+  font-size: $fs-800;
+}
+
+.fs-900 {
+  font-size: $fs-900;
+}
+
+.fw-regular {
+  font-weight: $fw-regular;
+}
+
+.fw-bold {
+  font-weight: $fw-bold;
+}
+
+.fw-extra-bold {
+  font-weight: $fw-extra-bold;
+}
+
+.err {
+  color: $clr-accent-100;
+}
+
+form .err .input-box > input {
+  border: 1px solid $clr-neutral-500;
+}

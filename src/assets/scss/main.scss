@@ -1,0 +1,18 @@
+@import "variables.css";
+@import "utility-classes.css";
+@import "font-face.css";
+@import "reset.css";
+
+body {
+  font-family: $ff-body;
+  font-weight: $fw-regular;
+  font-size: $fs-body;
+
+  text-align: center;
+
+  display: grid;
+  place-content: center;
+
+  background-color: $clr-neutral-200;
+  padding: 1.5rem;
+}
